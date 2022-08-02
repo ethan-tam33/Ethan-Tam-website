@@ -1,4 +1,4 @@
-## **Ethan J. Tam**
+#### **Ethan J. Tam**
 
 I'm an undergraduate student at UC Berkeley studying Data Science and Statistics as a Regents' and Chancellor's Scholar and a SEED Honors Scholar. My current experiences and interests lie in the applications of DS and Stats to public/global health through research. I hope to utilize my computational and data analysis skills to advocate for equitable access to infectious disease treatment and prevention. 
 

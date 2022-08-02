@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## **Ethan J. Tam**
 
-You can use the [editor on GitHub](https://github.com/ethan-tam33/Ethan-Tam-website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm an undergraduate student at UC Berkeley studying Data Science and Statistics as a Regents' and Chancellor's Scholar and a SEED Honors Scholar. My current experiences and interests lie in the applications of DS and Stats to public/global health through research. I hope to utilize my computational and data analysis skills to advocate for equitable access to infectious disease treatment and prevention. 
 
 ### Markdown
 

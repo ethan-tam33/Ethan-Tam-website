@@ -1,4 +1,4 @@
-#### **Ethan J. Tam**
+# **Ethan J. Tam**
 
  <img src="./IMG_8733.heic" style="width:50%; margin:auto; display:block">
 
